@@ -2,7 +2,7 @@
 
 ***NOTE***
 
-This is obviously a fork of solid-markdown by user andi23rosca. I've made this fork to hopefully continue this project. As of the writing of this edit 2023-02-24,the last commit to this repo was made on 2022-03-21.
+This was originally a fork of solid-markdown by user andi23rosca. I've made repo to hopefully continue this project. As of the writing of this edit 2023-02-24,the last commit to this repo was made on 2022-03-21.
 
 The implementation is 90% shamelessly copied from https://github.com/remarkjs/react-markdown.
 
